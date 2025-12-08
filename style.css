@@ -177,8 +177,8 @@
     }
 
     #profile img {
-      width: 180px;
-      height: 190px;
+      width: 185px;
+      height: 200px;
       border-radius: 50%;
       border: 2px solid transparent;
       background: var(--gradient-1) padding-box, var(--gradient-1) border-box;
