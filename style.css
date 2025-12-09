@@ -170,7 +170,7 @@
     .light #theme-toggle::before {
       transform: translateX(34px);
     }
-
+    
     /* Content Styles - Responsivo */
     #content {
       padding: 25px 20px;
